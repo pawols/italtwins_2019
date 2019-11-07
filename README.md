@@ -68,7 +68,7 @@ https://doi.org/10.1375/twin.14.2.137
 * [ ] Meredith MM, Crabb B, Vargas M, Hirsch BA. Chimerism for 20q11.2 microdeletion of GDF5 explains discordant phenotypes in monochorionic-diamniotic twins. Am J Med Genet A. 2017;173(12):3182-8.
 https://doi.org/10.1002/ajmg.a.38463
  
-* [ ] Pauli S, Schmidt T, Funke R, Zoll B, Burfeind P, Dybowski U, et al. Discordant phenotype in monozygotic twins with mosaic trisomy 12p in lymphocytes. Eur J Med Genet. 2012;55(8-9):480-4.
+* [x] Pauli S, Schmidt T, Funke R, Zoll B, Burfeind P, Dybowski U, et al. Discordant phenotype in monozygotic twins with mosaic trisomy 12p in lymphocytes. Eur J Med Genet. 2012;55(8-9):480-4.
 https://doi.org/10.1016/j.ejmg.2012.05.004
  
 * [ ] Kong Y, Berko ER, Marcketta A, Maqbool SB, Simoes-Pires CA, Kronn DF, et al. Detecting, quantifying, and discriminating the mechanism of mosaic chromosomal aneuploidies using MAD-seq. Genome Res. 2018;28(7):1039-52.
