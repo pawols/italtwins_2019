@@ -4,13 +4,15 @@
 
 ## Papers to check
 
+* [x] means full access
+
 * [ ] Steemers, F.J., Chang, W., Lee, G., Barker, D.L., Shen, R., and Gunderson, K.L. (2006). Whole-genome genotyping with the single-base extension assay. Nat. Methods 3, 31-33.
 https://doi.org/10.1038/nmeth842
  
-* [ ] Conlin, L.K., Thiel, B.D., Bonnemann, C.G., Medne, L., Ernst, L.M., Zackai, E.H., Deardorff, M.A., Krantz, I.D., Hakonarson, H., and Spinner, N.B. (2010). Mechanisms of mosaicism, chimerism and uniparental disomy identified by single nucleotide polymorphism array analysis. Hum. Mol. Genet. 19, 1263-1275.
+* [x] Conlin, L.K., Thiel, B.D., Bonnemann, C.G., Medne, L., Ernst, L.M., Zackai, E.H., Deardorff, M.A., Krantz, I.D., Hakonarson, H., and Spinner, N.B. (2010). Mechanisms of mosaicism, chimerism and uniparental disomy identified by single nucleotide polymorphism array analysis. Hum. Mol. Genet. 19, 1263-1275.
 https://doi.org/10.1093/hmg/ddq003
  
-* [ ] Razzaghian, H.R., Shahi, M.H., Forsberg, L.A., de Sta°hl, T.D., Absher, D., Dahl, N., Westerman, M.P., and Dumanski, J.P. (2010). Somatic mosaicism for chromosome X and Y aneuploidies in monozygotic twins heterozygous for sickle cell disease mutation. Am. J. Med. Genet. A. 152A, 2595-2598.
+* [x] Razzaghian, H.R., Shahi, M.H., Forsberg, L.A., de Sta°hl, T.D., Absher, D., Dahl, N., Westerman, M.P., and Dumanski, J.P. (2010). Somatic mosaicism for chromosome X and Y aneuploidies in monozygotic twins heterozygous for sickle cell disease mutation. Am. J. Med. Genet. A. 152A, 2595-2598.
 https://doi.org/10.1002/ajmg.a.33604
 
 ## References with doi links
